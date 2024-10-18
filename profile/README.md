@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://assets.flare.uk.to/flare/icons/logo_full.png" alt="Flare Logo" height="200">
+  <img src="/assets/logo_full.png" alt="Flare Logo" height="200">
 </p>
 
 <h1 align="center" style="font-family: 'SF Pro Display', sans-serif;">Flare</h1>
